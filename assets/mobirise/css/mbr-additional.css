@@ -8577,7 +8577,7 @@ a {
 .cid-s7YZK6Wyrg {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #cccccc;
+  background-image: url("../../../assets/images/mbr-1-1920x1440.jpg");
 }
 .cid-s7YZK6Wyrg h3 {
   text-align: center;
@@ -8600,7 +8600,7 @@ a {
   stroke: rgba(206, 206, 206, 0.4);
 }
 .cid-s7YZK6Wyrg path {
-  stroke: #149dcc;
+  stroke: #0077ff;
 }
 @media (max-width: 991px) and (min-width: 768px) {
   .cid-s7YZK6Wyrg .card {
@@ -8609,10 +8609,10 @@ a {
   }
 }
 .cid-s7YZK6Wyrg P {
-  color: #4f4943;
+  color: #000000;
 }
 .cid-s7YZK6Wyrg H4 {
-  color: #635a51;
+  color: #000000;
 }
 .cid-s7YZK6Wyrg .mbr-section-title {
   color: #000000;
@@ -11199,7 +11199,7 @@ a {
   margin: 0 auto;
 }
 .cid-s7Z7zmqW5C .mbr-section-subtitle {
-  color: #4f4943;
+  color: #000000;
 }
 .cid-s7Z7zmqW5C .card {
   -webkit-flex-basis: 100%;
@@ -12799,6 +12799,55 @@ a {
     flex-basis: 50%;
   }
 }
+.cid-s84BSXpHO1 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #040402;
+}
+.cid-s84BSXpHO1 h3 {
+  text-align: center;
+  letter-spacing: 0;
+}
+.cid-s84BSXpHO1 .wrap {
+  width: 130px;
+  height: 130px;
+  margin: 0 auto;
+}
+.cid-s84BSXpHO1 .pie_progress__number {
+  font-weight: 600;
+  text-align: center !important;
+  color: #999999;
+}
+.cid-s84BSXpHO1 .mbr-section-subtitle {
+  color: #999999;
+}
+.cid-s84BSXpHO1 .card-title {
+  margin-bottom: 0;
+}
+.cid-s84BSXpHO1 .card {
+  -webkit-flex-basis: 100%;
+  flex-basis: 100%;
+  word-wrap: break-word;
+}
+.cid-s84BSXpHO1 .svg-gradient {
+  position: absolute;
+}
+.cid-s84BSXpHO1 svg {
+  overflow: visible;
+}
+.cid-s84BSXpHO1 ellipse {
+  stroke: rgba(206, 206, 206, 0.4);
+  stroke-width: 14px;
+}
+.cid-s84BSXpHO1 path {
+  stroke-width: 14px;
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-s84BSXpHO1 .card {
+    -webkit-flex-basis: 50%;
+    flex-basis: 50%;
+  }
+}
 .cid-s7Zy0ospwk .dropdown-item:before {
   font-family: MobiriseIcons !important;
   content: '\e966';
@@ -13279,8 +13328,8 @@ a {
   text-align: left;
 }
 .cid-s7Zy0q93Wh {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #040402;
 }
 .cid-s7Zy0q93Wh h3 {
@@ -13323,6 +13372,104 @@ a {
 }
 @media (max-width: 991px) and (min-width: 768px) {
   .cid-s7Zy0q93Wh .card {
+    -webkit-flex-basis: 50%;
+    flex-basis: 50%;
+  }
+}
+.cid-s84BdTnZ3y {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #040402;
+}
+.cid-s84BdTnZ3y h3 {
+  text-align: center;
+  letter-spacing: 0;
+}
+.cid-s84BdTnZ3y .wrap {
+  width: 130px;
+  height: 130px;
+  margin: 0 auto;
+}
+.cid-s84BdTnZ3y .pie_progress__number {
+  font-weight: 600;
+  text-align: center !important;
+  color: #999999;
+}
+.cid-s84BdTnZ3y .mbr-section-subtitle {
+  color: #999999;
+}
+.cid-s84BdTnZ3y .card-title {
+  margin-bottom: 0;
+}
+.cid-s84BdTnZ3y .card {
+  -webkit-flex-basis: 100%;
+  flex-basis: 100%;
+  word-wrap: break-word;
+}
+.cid-s84BdTnZ3y .svg-gradient {
+  position: absolute;
+}
+.cid-s84BdTnZ3y svg {
+  overflow: visible;
+}
+.cid-s84BdTnZ3y ellipse {
+  stroke: rgba(206, 206, 206, 0.4);
+  stroke-width: 14px;
+}
+.cid-s84BdTnZ3y path {
+  stroke-width: 14px;
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-s84BdTnZ3y .card {
+    -webkit-flex-basis: 50%;
+    flex-basis: 50%;
+  }
+}
+.cid-s84Bd2OxA4 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #040402;
+}
+.cid-s84Bd2OxA4 h3 {
+  text-align: center;
+  letter-spacing: 0;
+}
+.cid-s84Bd2OxA4 .wrap {
+  width: 130px;
+  height: 130px;
+  margin: 0 auto;
+}
+.cid-s84Bd2OxA4 .pie_progress__number {
+  font-weight: 600;
+  text-align: center !important;
+  color: #999999;
+}
+.cid-s84Bd2OxA4 .mbr-section-subtitle {
+  color: #999999;
+}
+.cid-s84Bd2OxA4 .card-title {
+  margin-bottom: 0;
+}
+.cid-s84Bd2OxA4 .card {
+  -webkit-flex-basis: 100%;
+  flex-basis: 100%;
+  word-wrap: break-word;
+}
+.cid-s84Bd2OxA4 .svg-gradient {
+  position: absolute;
+}
+.cid-s84Bd2OxA4 svg {
+  overflow: visible;
+}
+.cid-s84Bd2OxA4 ellipse {
+  stroke: rgba(206, 206, 206, 0.4);
+  stroke-width: 14px;
+}
+.cid-s84Bd2OxA4 path {
+  stroke-width: 14px;
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-s84Bd2OxA4 .card {
     -webkit-flex-basis: 50%;
     flex-basis: 50%;
   }
